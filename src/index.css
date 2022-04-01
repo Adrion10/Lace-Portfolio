@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Righteous", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #dde8fc;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 15px;
+  max-width: 1280px;
+}
+
+p {
+  line-height: 30px;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New";
+}
+
+h1,
+h2 {
+  font-family: "Righteous", cursive;
+}
