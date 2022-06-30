@@ -13,9 +13,9 @@ const About = () => {
           <p>17 years Navy Officer</p>
           <p>Diving Instractor</p>
           <p>Business Administration</p>
-          <p>1 years experience in Programming</p>
-          <p>Javascript Developer</p>
-          <p>React js Developer</p>
+          <p>2 years experience in Programming</p>
+          <p>Javascript React Developer</p>
+          <p>Full Stack Web Developer</p>
         </div>
       </div>
     </div>
